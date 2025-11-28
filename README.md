@@ -16,7 +16,7 @@
 
 **Flow Chart For RAG**
 
-[](https://documents.lucid.app/documents/8d335df7-eb07-4d88-a17e-5445a8efdb33/pages/0_0?a=1017&x=-515&y=-26&w=2070&h=1453&store=1&accept=image%2F*&auth=LCA%20b2465c2735e4ab8031bd1b35fa698262ea5388d09eeffcf6478da943ddc35192-ts%3D1747205897)
+![image](https://documents.lucid.app/documents/8d335df7-eb07-4d88-a17e-5445a8efdb33/pages/0_0?a=1017&x=-515&y=-26&w=2070&h=1453&store=1&accept=image%2F*&auth=LCA%20b2465c2735e4ab8031bd1b35fa698262ea5388d09eeffcf6478da943ddc35192-ts%3D1747205897)
 
 **Key Features and Benefits**
 
